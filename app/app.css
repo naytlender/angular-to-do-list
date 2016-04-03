@@ -1,0 +1,14 @@
+.fullWidth{
+  width: 100%;
+}
+
+.delBtn{
+  font-size: 14px;
+  color: white;
+}
+
+.error{
+  min-height: 20px;
+  font-size: 14px;
+  color: red;
+}
